@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#100c08"
+    android:background="#EFEAE5"
     tools:context=".ui.gallery.GalleryFragment">
 
 
@@ -12,7 +12,6 @@
         android:id="@+id/text_gallery"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World! This is demo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.501"
